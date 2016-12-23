@@ -1,6 +1,6 @@
 {
-  "name": "@liefs/layout_manager_core",
-  "version": "1.0.13",
+  "name": "@liefs/core",
+  "version": "1.0.0",
   "description": "Dynamic Display Function Evaluator For Dynamic Screen Layouts",
   "main": "liefcore.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "liefcore.ts",
     "liefcore.min.js"
   ],
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/electriclief/liefs-core.git"
+  },
   "dependencies": {
     "@liefs/lib": "electriclief/liefs-lib"
   },
