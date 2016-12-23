@@ -1,0 +1,22 @@
+{
+  "name": "@liefs/layout_manager_core",
+  "version": "1.0.13",
+  "description": "Dynamic Display Function Evaluator For Dynamic Screen Layouts",
+  "main": "liefcore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stacy Lief Kelly <electriclief@gmail.com> (http://leafdriving.kissr.com)",
+  "license": "ISC",
+  "files": [
+    "liefcore.ts",
+    "liefcore.min.js"
+  ],
+  "dependencies": {
+    "@liefs/lib": "electriclief/liefs-lib"
+  },
+  "devDependencies": {
+    "@types/npm": "^2.0.28"
+  },
+  "private": false
+}
